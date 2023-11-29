@@ -13,7 +13,7 @@ let package = Package(
             targets: ["ExpoFpIndoorAtlasTarget"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/expofp/expofp-common-ios-spm", exact: "4.2.16"),
+        .package(url: "https://github.com/expofp/expofp-common-ios-spm", exact: "4.2.18"),
     	.package(url: "https://github.com/IndoorAtlas/ios-spm", branch: "main"),
 
     ],
