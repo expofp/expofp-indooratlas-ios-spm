@@ -1,0 +1,11 @@
+framework module ExpoFpIndoorAtlas {
+  umbrella header "ExpoFpIndoorAtlas.h"
+  export *
+
+  module * { export * }
+}
+
+module ExpoFpIndoorAtlas.Swift {
+  header "ExpoFpIndoorAtlas-Swift.h"
+  requires objc
+}
