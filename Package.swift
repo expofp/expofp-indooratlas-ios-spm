@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/expofp/expofp-common-ios-spm", exact: "4.2.18"),
-    	.package(url: "https://github.com/expofp/indooratlas-ios-spm", exact: "3.6.0"),
+    	.package(url: "https://github.com/IndoorAtlas/ios-spm", exact: "3.6.5"),
 
     ],
     targets: [
@@ -22,7 +22,7 @@ let package = Package(
             name: "ExpoFpIndoorAtlasTarget",
             dependencies: [
                 .product(name: "ExpoFpCommon", package: "expofp-common-ios-spm"),
-                .product(name: "IndoorAtlas", package: "indooratlas-ios-spm"),
+                .product(name: "IndoorAtlas", package: "ios-spm"),
                 .target(name: "ExpoFpIndoorAtlas")
             
             ], path: "ExpoFpIndoorAtlasTarget"),
