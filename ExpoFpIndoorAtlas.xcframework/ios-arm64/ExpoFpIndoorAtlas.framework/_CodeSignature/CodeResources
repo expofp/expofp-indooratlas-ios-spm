@@ -34,11 +34,15 @@
 		</data>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		UMUkz/PMN/vbG9qyxT3L6ZSuLT4=
+		pY5Ba2gVl7eov5cc24cTBnF0Kzw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		ioi4B+vWK/cn0UAwKBf0lHrou38=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		2ZkuLvBGN2S+voyKTsQxvLSsn2o=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -89,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OSUSCzaznuF0iTBccf/xWaIjR+tWC6la/1aVEKqC86o=
+			Gx5eHirKazAuj544r+ul4knlDxotSplg1r0LdvxyLRs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -97,6 +101,13 @@
 			<key>hash2</key>
 			<data>
 			9TfwO52DEHzkgBcga3VLbGaQ01pU5maWJFesUqtqhQQ=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qQcH3iThsH+PpkwipVhTuxnFcYwTDUoVt7qsXXpfpCE=
 			</data>
 		</dict>
 	</dict>
