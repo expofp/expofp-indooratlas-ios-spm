@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/ExpoFpIndoorAtlas-Swift.h</key>
 		<data>
-		lvU4w1cArI+8ytfAMo+xl1jqg4o=
+		Vuallm3Vlx+RXpptJF6BsVusNr4=
 		</data>
 		<key>Headers/ExpoFpIndoorAtlas.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		omqhxxMoHxAEZv2aA5cbSJL6PUs=
+		wOPE27h1YRFJOYQLcMMJwkZ9oT0=
 		</data>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		wFyok2U1fvzpwX7wV8CWDsi2wr0=
+		vs/ZO+DLzhtaisHwC4V73Buix0E=
 		</data>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		fDYizuLbZ7YzOCn8OZj8Od+rBnI=
+		XZz5kMApCBmvBMyiLcT2xUEjLso=
 		</data>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		jCKCZ4e83/X9vzzjrKPOyrJvy7U=
+		4lu3ia3UAMnX5vK5HGRS5/Hj++c=
 		</data>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		fDYizuLbZ7YzOCn8OZj8Od+rBnI=
+		XZz5kMApCBmvBMyiLcT2xUEjLso=
 		</data>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5GE5Z5bMf+9J6CwN23cllI8GV5Y=
+		2xZWs7NcjmTF8r5sHcq9AwFFnMs=
 		</data>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		wFyok2U1fvzpwX7wV8CWDsi2wr0=
+		vs/ZO+DLzhtaisHwC4V73Buix0E=
 		</data>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		3/EHQZw/UFBfyNysiPQyQNEGMxM=
+		IeN/gd5xMEu4l7YnhnjSKpfkEYU=
 		</data>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ncmDEJyOR8hI9Pgor2KuFFg7LfM=
+		ggqciCQEPAtqW+oQ/ozKEougnWs=
 		</data>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		3/EHQZw/UFBfyNysiPQyQNEGMxM=
+		IeN/gd5xMEu4l7YnhnjSKpfkEYU=
 		</data>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qTn+/tkq0oNrxLuqGvqobsjBbm0=
+		/No2Bol/adVsO+4IWWcCeqyCpNQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			duhXHcbPUR7bm9D2zoq0cCXAMm15rre8nkodHDP1VFY=
+			x8Ts/8C/1iBaCHHrjMHqmX3oOxPATztS+d8z1iS01hY=
 			</data>
 		</dict>
 		<key>Headers/ExpoFpIndoorAtlas.h</key>
@@ -85,70 +85,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/goWZfssmYymv5srJxKTov9BBDJCrIS8Ekisi//RBwc=
+			5njqbLJIDGPUNtJcRc9wsL0sGelZ8+N26qzNonXoAAA=
 			</data>
 		</dict>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jKCkakV9IHW4I5aIfigB/rArF4AcY/Yoy7nDml5mPU0=
+			9IMz3JPgllQakBmt7/CIkj9HBnhuEuiFd0+aS0IPUMo=
 			</data>
 		</dict>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bxfsIQb1jHXvl79tG8qHy1regsp8MGiLOW5rUsJwV8o=
+			5Nnv30XezeEJ1OwYnDUIC+CHtkM2odTTE7aKWr+qsak=
 			</data>
 		</dict>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jKCkakV9IHW4I5aIfigB/rArF4AcY/Yoy7nDml5mPU0=
+			9IMz3JPgllQakBmt7/CIkj9HBnhuEuiFd0+aS0IPUMo=
 			</data>
 		</dict>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4On0nygOaih1irgnAwgTJqOZl5n2ehXaHDWvFwtqDDk=
+			hwqNykKlzvZeygzQpto/v/U97lxwPPKQFm+jRnCjbNU=
 			</data>
 		</dict>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/goWZfssmYymv5srJxKTov9BBDJCrIS8Ekisi//RBwc=
+			5njqbLJIDGPUNtJcRc9wsL0sGelZ8+N26qzNonXoAAA=
 			</data>
 		</dict>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ajcbQDRT3zfgpfh4qzubTewWcjwKH3zWyY02GecgFbM=
+			zFu24aKgtQkwwYvOvK3PtyjvVLMyOURQwXELEqhMHJw=
 			</data>
 		</dict>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHLQatUgpGZBnljrm5+sUuh1to8m9t6NW1t8vFj40z0=
+			KSVuXCp3DJHLXAelGzbsMqHdKvdBpFiBLr9uUNkXZ2U=
 			</data>
 		</dict>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ajcbQDRT3zfgpfh4qzubTewWcjwKH3zWyY02GecgFbM=
+			zFu24aKgtQkwwYvOvK3PtyjvVLMyOURQwXELEqhMHJw=
 			</data>
 		</dict>
 		<key>Modules/ExpoFpIndoorAtlas.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BhuzCDZTsk7K57lLAPhHA/qXGijSMIVP11ie69FvJRI=
+			WTdfumUa83TibD3jcwSo4+OwUAQJp5KBvmBCzavScLE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
